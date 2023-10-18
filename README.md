@@ -15,7 +15,7 @@
 - miller - etudiant - croziflette 
 - milowo - etudiant - crepes
 - moutoo - etudiant - souris
-- tresbien - etudiant - protéines
+- tresbien - etudiant - proteines
 - userMeh - etudiant - idk
 - obs - etudiant - tarte aux pommes
 - ptitFlan - etudiant - Panini poulet
